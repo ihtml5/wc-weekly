@@ -13,3 +13,5 @@
 5. [simplifying-performance-with-web-components](https://vaadin.com/blog/simplifying-performance-with-web-components)
 6. [web-components-introduction](https://academind.com/tutorials/web-components-introduction)
 7. [hello-web-components](https://github.com/fernandopasik/hello-web-components)
+8. [Building PWAs with Web Components!](https://medium.com/pwabuilder/building-pwas-with-web-components-33f986bf8e4c)
+9. 

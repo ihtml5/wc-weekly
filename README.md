@@ -14,4 +14,3 @@
 6. [web-components-introduction](https://academind.com/tutorials/web-components-introduction)
 7. [hello-web-components](https://github.com/fernandopasik/hello-web-components)
 8. [Building PWAs with Web Components!](https://medium.com/pwabuilder/building-pwas-with-web-components-33f986bf8e4c)
-9. 

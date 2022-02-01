@@ -5,12 +5,13 @@
 + fork本项目
 + 发起pr
 
-### 第二周
+### 第二周[最新]
 1. [react-to-webcomponent](https://github.com/bitovi/react-to-webcomponent)
 2. [Custom Elements Everywhere](https://custom-elements-everywhere.com/)
 3. [direflow](https://github.com/Silind-Software/direflow)
+4. [vue-web-component-wrapper](https://github.com/vuejs/vue-web-component-wrapper)
 
-### 第一周[最新]
+### 第一周
 1. [webcomponents.org](https://www.webcomponents.org/)
 2. [Web Components MDN](https://developer.mozilla.org/zh-CN/docs/Web/Web_Components)
 3. [Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)

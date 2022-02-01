@@ -5,6 +5,10 @@
 + fork本项目
 + 发起pr
 
+### 第二周
+1. [react-to-webcomponent](https://github.com/bitovi/react-to-webcomponent)
+2. [Custom Elements Everywhere](https://custom-elements-everywhere.com/)
+
 ### 第一周[最新]
 1. [webcomponents.org](https://www.webcomponents.org/)
 2. [Web Components MDN](https://developer.mozilla.org/zh-CN/docs/Web/Web_Components)

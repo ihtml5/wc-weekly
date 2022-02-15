@@ -10,6 +10,7 @@
 2. [Custom Elements Everywhere](https://custom-elements-everywhere.com/)
 3. [direflow](https://github.com/Silind-Software/direflow)
 4. [vue-web-component-wrapper](https://github.com/vuejs/vue-web-component-wrapper)
+5. [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way)
 
 ### 第一周
 1. [webcomponents.org](https://www.webcomponents.org/)

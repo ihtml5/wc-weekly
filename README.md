@@ -11,6 +11,7 @@
 3. [direflow](https://github.com/Silind-Software/direflow)
 4. [vue-web-component-wrapper](https://github.com/vuejs/vue-web-component-wrapper)
 5. [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way)
+6. [Web Components Basics and Performance Benefits](https://medium.com/@spkamboj/web-components-basics-and-performance-benefits-f7537c908075)
 
 ### 第一周
 1. [webcomponents.org](https://www.webcomponents.org/)

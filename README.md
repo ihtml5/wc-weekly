@@ -12,6 +12,7 @@
 4. [vue-web-component-wrapper](https://github.com/vuejs/vue-web-component-wrapper)
 5. [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way)
 6. [Web Components Basics and Performance Benefits](https://medium.com/@spkamboj/web-components-basics-and-performance-benefits-f7537c908075)
+7. [Exploring React's new web component support](https://dev.to/marcushellberg/exploring-reacts-newly-added-web-component-support-19i7)
 
 ### 第一周
 1. [webcomponents.org](https://www.webcomponents.org/)

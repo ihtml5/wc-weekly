@@ -7,6 +7,7 @@
 
 ### 第三周[最新]
 1. [A Complete Introduction to Web Components in 2022](https://kinsta.com/blog/web-components/)
+2. [Web Component Best Practices](https://cianfrani.dev/posts/web-component-best-practices/)
 
 ### 第二周
 1. [react-to-webcomponent](https://github.com/bitovi/react-to-webcomponent)

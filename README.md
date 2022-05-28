@@ -8,6 +8,7 @@
 ### 第三周[最新]
 1. [A Complete Introduction to Web Components in 2022](https://kinsta.com/blog/web-components/)
 2. [Web Component Best Practices](https://cianfrani.dev/posts/web-component-best-practices/)
+3. [Testing Web Components with Cypress and TypeScript](https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript/)
 
 ### 第二周
 1. [react-to-webcomponent](https://github.com/bitovi/react-to-webcomponent)
